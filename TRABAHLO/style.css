@@ -1,0 +1,46 @@
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D9D9D9;
+    width: 811px;
+    height: 674px;
+    margin: auto; 
+    margin-top: calc(50vh - 337px); 
+   
+}
+
+.login {
+    display: grid;
+    place-items: center;
+    gap: 10px;
+}
+
+img {
+    width: 153px;
+    height: 115px;
+}
+
+input {
+    width: 330px;
+    height: 46px;
+}
+
+button {
+    width: 160px;
+    height: 44px;
+    background: #04C9F4;
+    color: white;
+    border: none;
+    
+
+}
+
+body {
+    background-color: #E7E7E7;
+    margin: 0; 
+   
+}
+
+
+
